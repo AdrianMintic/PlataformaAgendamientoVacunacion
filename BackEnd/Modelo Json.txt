@@ -1,0 +1,169 @@
+{    
+    "nombresyapellidos": "Jose Manuel Henao Mendez",
+    "rol": 3,
+    "usuario": "118",
+    "contraseña": "abc",
+    "documento":2247345,
+    "age": 2,
+    "HepatitisB" : 1,
+    "Pentavalente" : 1,
+    "BCG" : 0,
+    "Rotavirus" : 0,
+    "Polio" : 1,
+    "Neumococo" : 0,
+    "Influenzaestacional" : 1,
+    "SRP" : 1,
+    "Varicela" : 1,
+    "HepatitisA" : 0,
+    "FiebreAmarilla" : 1,
+    "email": "jose@hotmail.com.co"
+}
+
+{    
+    "nombresyapellidos": "Carlos Mario Hoyos Rodriguez",
+    "rol": 3,
+    "usuario": "111",
+    "contraseña": "abc",
+    "documento":2247345,
+    "age": 1,
+    "HepatitisB" : 0,
+    "Pentavalente" : 0,
+    "BCG" : 0,
+    "Rotavirus" : 0,
+    "Polio" : 1,
+    "Neumococo" : 0,
+    "Influenzaestacional" : 1,
+    "SRP" : 1,
+    "Varicela" : 1,
+    "HepatitisA" : 0,
+    "FiebreAmarilla" : 1,
+    "email": "jeanquimbayo@uninorte.edu.co"
+}
+
+{
+    "nombresyapellidos": "Daniel Felipe Gonzalez Mendez",
+    "rol": 3,
+    "usuario": "112",
+    "contraseña": "abc",
+    "documento":5647345,
+    "age": 4,
+    "HepatitisB" : 1,
+    "Pentavalente" : 0,
+    "BCG" : 1,
+    "Rotavirus" : 1,
+    "Polio" : 1,
+    "Neumococo" : 0,
+    "Influenzaestacional" : 0,
+    "SRP" : 0,
+    "Varicela" : 1,
+    "HepatitisA" : 0,
+    "FiebreAmarilla" : 1,
+    "email": "josegonzalez@gmail.com.co"
+}
+
+{
+    "nombresyapellidos": "Carolina Maria Gomez Sanin",
+    "rol": 3,
+    "usuario": "113",
+    "contraseña": "abc",
+    "documento":1147345,
+    "age": 2,
+    "HepatitisB" : 0,
+    "Pentavalente" : 0,
+    "BCG" : 1,
+    "Rotavirus" : 1,
+    "Polio" : 1,
+    "Neumococo" : 0,
+    "Influenzaestacional" : 1,
+    "SRP" : 0,
+    "Varicela" : 1,
+    "HepatitisA" : 0,
+    "FiebreAmarilla" : 1,
+    "email": "juanagomez@gmail.com.co"
+}
+
+{
+    "nombresyapellidos": "Jesus Alberto Tellez Losada",
+    "rol": 3,
+    "usuario": "114",
+    "contraseña": "abc",
+    "documento":8737646,
+    "age": 2,
+    "HepatitisB" : 1,
+    "Pentavalente" : 1,
+    "BCG" : 1,
+    "Rotavirus" : 1,
+    "Polio" : 0,
+    "Neumococo" : 0,
+    "Influenzaestacional" : 0,
+    "SRP" : 0,
+    "Varicela" : 0,
+    "HepatitisA" : 0,
+    "FiebreAmarilla" : 0,
+    "email": "jesus.telles@hotmail.com"
+}
+{
+    "nombresyapellidos": "Victor Andres Ochoa Galindez",
+    "rol": 3,
+    "usuario": "115",
+    "contraseña": "abc",
+    "documento":14937539,
+    "age": 4,
+    "HepatitisB" : 1,
+    "Pentavalente" : 1,
+    "BCG" : 1,
+    "Rotavirus" : 1,
+    "Polio" : 1,
+    "Neumococo" : 1,
+    "Influenzaestacional" : 1,
+    "SRP" : 0,
+    "Varicela" : 0,
+    "HepatitisA" : 0,
+    "FiebreAmarilla" : 0,
+    "email": "Vctogliz@yahoo.com"
+}
+
+{
+    "nombresyapellidos": "Oscar Jose Betancurt Anzola",
+    "rol": 1,
+    "usuario": "116",
+    "contraseña": "abc",
+    "documento":79937539,
+    "age": 45,
+    "HepatitisB" : 1,
+    "Pentavalente" : 1,
+    "BCG" : 1,
+    "Rotavirus" : 1,
+    "Polio" : 1,
+    "Neumococo" : 1,
+    "Influenzaestacional" : 1,
+    "SRP" : 1,
+    "Varicela" : 1,
+    "HepatitisA" : 1,
+    "FiebreAmarilla" : 1,
+    "email": "oscarbetancurt@gmail.com"
+}
+{
+    "nombresyapellidos": "Ana Maria Bonilla Quintero",
+    "rol": 2,
+    "usuario": "117",
+    "contraseña": "abc",
+    "documento":609846563,
+    "age": 35,
+    "HepatitisB" : 1,
+    "Pentavalente" : 1,
+    "BCG" : 1,
+    "Rotavirus" : 1,
+    "Polio" : 1,
+    "Neumococo" : 1,
+    "Influenzaestacional" : 1,
+    "SRP" : 1,
+    "Varicela" : 1,
+    "HepatitisA" : 1,
+    "FiebreAmarilla" : 1,
+    "email": "Ana.Bonilla87@gmail.com"
+}
+
+
+
+[{"_id":"61bf0e976e46d771b46dfd2b","name":"Diego Perez","age":52,"email":"diedar@hotmail.com","__v":0},{"_id":"61bf10756e46d771b46dfd2f","name":"Diego Dario Perez","age":51,"email":"diedarperez@yahoo.com","__v":0},{"_id":"61bf53e551b325000a8c246e","name":"Jean","lastname":"Quimbayo","age":25,"email":"jeanquimbayo@uninorte.edu.co","__v":0},{"_id":"61bf57f4d04abd4b53349848","nombresyapellidos":"Carlos Mario Hoyos Rodriguez","documento":5647345,"age":5,"email":"jeanquimbayo@uninorte.edu.co","__v":0},{"_id":"61bf594baf51705af80a54fc","nombresyapellidos":"Carlos Mario Hoyos Rodriguez","rol":2,"documento":5647345,"age":5,"email":"jeanquimbayo@uninorte.edu.co","__v":0},{"_id":"61bf5af256b83d9fa0a48951","nombresyapellidos":"Carlos Mario Hoyos Rodriguez","rol":1,"documento":5647345,"age":5,"email":"jeanquimbayo@uninorte.edu.co","__v":0},{"_id":"61bf6164721abc47ade23240","nombresyapellidos":"Carlos Mario Hoyos 

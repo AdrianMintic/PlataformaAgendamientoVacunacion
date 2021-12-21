@@ -1,0 +1,38 @@
+//1 import los hooks que vamos a necesitar
+import React, { useState, useEffect } from 'react';
+import './App.css';
+
+import axios from "axios";
+
+  state = {
+    persons: []
+  }
+
+function App() {
+  // 2 cree un estado para recibir la respuesta del endpoint del backend
+  const [persons] = useState([]);
+
+  // 3 usar el Hook useEffect del ciclo de vida de la vista (load)
+  useEffect (() => {
+    //5 construi la base de la url y los parametros que me dice la documentacion
+    var baseUrl = "http://localhost:8090/api/users"
+    
+    // 4 Verificar la documentacion axios y verificar el verbo del endpoint (GET)
+    axios.get(baseUrl)
+    .then(res =>{
+      //6 verifique la respuesta ok a la peticion al backend
+      const persons = res.data;	
+      console.log("Todo ok ", res.data);
+    })
+    .catch(function(error){
+      //7 verifique la captura de los errores en caso que falle
+      console.log("error ", error);
+    })
+  }, []);
+
+  return (
+   //Aqui se renderiza
+  );
+}
+
+export default App;
