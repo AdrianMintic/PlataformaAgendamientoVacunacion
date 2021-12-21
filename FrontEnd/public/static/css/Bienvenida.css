@@ -1,0 +1,133 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  font-family: Helvetica;
+  width: 480px;
+  margin: 0 auto;
+  position: center;
+}
+ul{
+  list-style: none;
+}
+#admin{
+height: 100px ;
+width: 600px;
+
+}
+
+#menu li>a{
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  min-width: 100px;
+}
+#menu li>a:hover{
+  color: #000;
+  background-color: #eaeaea;
+}
+#menu>li{
+  float: left;
+  text-align:center
+}
+#menu>li>ul{
+  display: none;
+}
+#menu>li:hover>ul {
+  display:block;
+}
+.u-section-1 {
+  background-image: linear-gradient(#adf6f2, #b3b3b3);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1067px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 633px;
+  margin-top: 85px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 21px 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  min-height: 186px;
+  margin-top: 34px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 127px;
+  height: 127px;
+  background-image: url("images/logo1.png");
+  background-position: 50% 50%;
+  margin: 29px auto 0 284px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  font-style: italic;
+  font-weight: 700;
+  margin: -119px 342px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    margin-top: -46px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 282px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    margin-top: -121px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 216px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    margin-top: -246px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 162px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    margin-top: -458px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 213px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 102px;
+  }
+}
